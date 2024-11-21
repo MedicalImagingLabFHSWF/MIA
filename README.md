@@ -12,6 +12,6 @@ To adjust image brightness and contrast in your PowerPoint presentation using th
    - Horizontal: Move left/right to lower/increase contrast.
    - Vertical: Move up/down to decrease/increase brightness.
    - Diagonal movements will change both brightness and contrast simultaneously, allowing for a tailored visual Adjustment. 
-4. Press "S" to Pause**: Stops adjustments, letting you move the mouse without changes.
-5. Press "R" to Resume**: Reactivates adjustments.
-6. Press "X" to Reset**: Resets brightness and contrast to original values.
+4. Press "S" to Pause: Stops adjustments, letting you move the mouse without changes.
+5. Press "R" to Resume: Reactivates adjustments.
+6. Press "X" to Reset: Resets brightness and contrast to original values.
